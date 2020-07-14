@@ -1,1 +1,1 @@
-# WebWhatsapp-Wrapper
+# Web.7chatsapp-Wrapper
